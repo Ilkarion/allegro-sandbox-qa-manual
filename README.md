@@ -24,18 +24,18 @@ allegro-sandbox/
 └── 10_Test_Report
 ```
 
-## 🧭 Contents Overview
+## Contents Overview
 
-- 01_Test_Plan — overall test strategy and planning
-- 02_Test_Basis — functional areas and business context
-- 03_Test_Scenarios — high-level user scenarios
-- 04_Test_Cases — detailed step-by-step validation coverage
-- 05_Exploratory_Testing — ad hoc and discovery-based testing
-- 06_Bug_Reports — issue documentation and tracking
-- 07_API_Testing — API validation, including Postman collections
-- 08_Responsive_Testing — mobile and responsive checks
-- 09_Test_Execution — execution results and status tracking
-- 10_Test_Report — final summary and reporting
+- 01_Test_Plan — scope, objectives, test approach, risks, and test strategy
+- 02_Test_Basis — requirements, business rules, assumptions, and open questions
+- 03_Test_Scenarios — high-level scenarios covering key user flows
+- 04_Test_Cases — detailed test cases for functional validation
+- 05_Exploratory_Testing — exploratory sessions, charters, and findings
+- 06_Bug_Reports — documented defects with steps to reproduce and evidence
+- 07_API_Testing — API test cases, requests, validations, and Postman collections
+- 08_Responsive_Testing — responsive behavior across screen sizes and devices
+- 09_Test_Execution — test execution results, status, and traceability
+- 10_Test_Report — test summary, results, defects, risks, and conclusions
 
 ## ✅ Purpose
 
