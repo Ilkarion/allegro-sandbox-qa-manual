@@ -18,22 +18,22 @@
 ##Resources
 
 ### Test Environment
-Browser: Chrome, Edge;
-OS: Windows 11;
-Application: Allegro Sandbox;
-Screen resolutions: 1920x1080, 1366x768, 1024x768, 768x1024, 390x844, 320x400;
+- Browser: Chrome, Edge;
+- OS: Windows 11;
+- Application: Allegro Sandbox;
+- Screen resolutions: 1920x1080, 1366x768, 1024x768, 768x1024, 390x844, 320x400;
 
 ### Test Resources
-QA Tester - Ilkarion
-Test account: mastercomponents6@gmail.com
-Test devices: PC
+- QA Tester - Ilkarion
+- Test account: mastercomponents6@gmail.com
+- Test devices: PC
 
 ### Test Tools
-Chrome DevTools, Edge Devtools
-Jira
-XRay
-Postman
-JMeter
+- Chrome DevTools, Edge Devtools
+- Jira
+- XRay
+- Postman
+- JMeter
 
 ---
 
