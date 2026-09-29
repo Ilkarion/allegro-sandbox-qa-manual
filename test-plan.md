@@ -2,6 +2,18 @@
 
 ---
 
+## Quick Navigation
+- [Scope](#scope)
+- [Resources](#resources)
+- [Approach](#approach)
+- [Entry & Exit Criteria](#entry-criteria)
+- [Assumptions & Risks](#assumptions)
+- [Deliverables](#deliverables)
+- [Defect Management](#defect-management)
+- [Traceability](#traceability)
+
+---
+
 ## Scope
 - Authetication(login, registration)
 - Search(filters, search input, by categories)
@@ -15,7 +27,7 @@
 
 ---
 
-##Resources
+## Resources
 
 ### Test Environment
 - Browser: Chrome, Edge;
@@ -59,7 +71,6 @@
 - Critical and high-severity defects have been reported
 - Test results have been documented
 - Final test summary has been prepared
-
 
 ---
 
