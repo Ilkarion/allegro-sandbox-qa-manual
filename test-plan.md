@@ -107,12 +107,4 @@ Defects will be documented with:
 ---
 
 ## Traceability
-Requirement
-    ↓
-Test Scenario
-    ↓
-Test Case
-    ↓
-Execution
-    ↓
-Bug
+Requirement -> Test Scenario -> Test Case -> Execution -> Bug
