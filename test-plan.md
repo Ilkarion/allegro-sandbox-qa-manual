@@ -10,8 +10,8 @@
 - Performance
 
 ## Out of scope
--Payment
--Checkout
+- Payment
+- Checkout
 
 ---
 
