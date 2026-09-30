@@ -1,0 +1,141 @@
+## 1. Purpose
+
+This document defines the functional behavior and business rules
+used as a basis for testing Allegro Sandbox.
+
+Since formal product requirements are not available,
+the test basis is derived from:
+- observed application behavior
+- UI elements and available functionality
+- publicly visible information
+- testing assumptions
+- identified open questions
+
+---
+
+## 2. Authentication
+
+### Registration
+
+The user should be able to:
+- open the registration page
+- enter required registration data
+- submit the registration form
+- receive validation messages for invalid data
+- successfully create an account when valid data is provided
+
+### Login
+
+The user should be able to:
+- enter valid credentials
+- log in successfully
+- receive an error for invalid credentials
+- receive validation messages for invalid or missing input
+
+### Logout
+
+The user should be able to:
+- log out from the account
+- be redirected to an appropriate page
+- no longer access authenticated functionality
+
+---
+
+## 3. Search
+
+### Search Input
+
+The user should be able to:
+- enter a search phrase
+- submit the search
+- view products matching the search phrase
+
+### Categories
+
+The user should be able to:
+- select a product category
+- navigate between categories
+- view products belonging to the selected category
+
+### Filters
+
+The user should be able to:
+- open available filters
+- select filter values
+- apply filters
+- clear filters
+- view products matching selected filters
+
+---
+
+## 4. Product
+
+The user should be able to:
+- open a product page
+- view product information
+- view price
+- view available product options
+- select available options
+- add the product to the cart
+
+---
+
+## 5. Cart
+
+The user should be able to:
+- add a product to the cart
+- view products in the cart
+- change product quantity
+- remove a product
+- view the updated cart total
+
+---
+
+## 6. Responsive Behavior
+
+The application should remain usable at the defined
+screen resolutions.
+
+The following areas should be checked:
+- navigation
+- search
+- product pages
+- filters
+- cart
+- buttons and interactive elements
+- text visibility
+- horizontal/vertical scrolling
+
+---
+
+## 7. API
+
+Available API functionality will be tested against
+observable API behavior.
+
+The following will be checked:
+- HTTP status codes
+- response body
+- response structure
+- required parameters
+- invalid input handling
+- error responses
+
+---
+
+## 8. Assumptions
+
+- Observed application behavior is used as the expected behavior
+  when formal requirements are unavailable.
+- Sandbox behavior may differ from production.
+- Business rules that cannot be verified are treated as assumptions.
+
+---
+
+## 9. Open Questions
+
+- Which product fields are mandatory?
+- What are the exact validation rules for registration?
+- What are the expected limits for search input?
+- Which filters are mandatory/optional?
+- What are the exact rules for cart quantity?
