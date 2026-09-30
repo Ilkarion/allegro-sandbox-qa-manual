@@ -15,11 +15,24 @@
 ---
 
 ## Scope
-- Authetication(login, registration)
-- Search(filters, search input, by categories)
+- Authentication
+  - Login
+  - Registration
+
+- Search
+  - Search input
+  - Categories
+  - Filters
+
 - Product
+  - Product details
+  - Product selection
+
 - Cart
-- Performance
+  - Add product
+  - Remove product
+  - Quantity
+  - Price calculation
 
 ## Out of scope
 - Payment
@@ -37,11 +50,11 @@
 
 ### Test Resources
 - QA Tester - Ilkarion
-- Test account: mastercomponents6@gmail.com
+- Test account: test user account
 - Test devices: PC
 
 ### Test Tools
-- Chrome DevTools, Edge Devtools
+- Chrome DevTools, Edge DevTools
 - Jira
 - XRay
 - Postman
@@ -61,6 +74,7 @@
 ---
 
 ## Entry Criteria
+- Required test data is available
 - Application is accessible
 - Required test environment is available
 - Test accounts can be created
@@ -68,7 +82,7 @@
 
 ## Exit Criteria
 - All planned test cases have been executed
-- Critical and high-severity defects have been reported
+- Critical and high-severity defects have been reported and reviewed
 - Test results have been documented
 - Final test summary has been prepared
 
