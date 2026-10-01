@@ -94,6 +94,7 @@
 - Business rules that cannot be verified are documented as assumptions.
 - Test data available in the sandbox environment may differ from production.
 - inheraction with app by regular account(not business account)
+- user reached the age of 18
 
 ## Risks
 - Requirements may be incomplete or unavailable.
