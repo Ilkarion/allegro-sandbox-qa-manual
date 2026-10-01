@@ -93,6 +93,7 @@
   expected behavior when formal requirements are unavailable.
 - Business rules that cannot be verified are documented as assumptions.
 - Test data available in the sandbox environment may differ from production.
+- inheraction with app by regular account(not business account)
 
 ## Risks
 - Requirements may be incomplete or unavailable.
