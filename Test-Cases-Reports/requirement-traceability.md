@@ -1,0 +1,85 @@
+# Requirement Traceability
+
+> Requirement → Story → Test Case → Test Execution → Test Run relationships exported from Jira/Xray.
+
+**Traceability records:** 60  
+**Unique test cases in traceability:** 56  
+**Test executions represented:** 3  
+**Passed test runs:** 57
+
+## Traceability Matrix
+
+| Epic Key | Epic name | Story Key | Story name | Test Key | Test Summary | Test Status | Test Execution Key | TestRun Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+| AS-66 | Product | AS-83 | Cart | AS-77 | Change product quantity | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-83 | Cart | AS-79 | Check price after changing product quantity | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-83 | Cart | AS-80 | Remove product from the cart | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-83 | Cart | AS-82 | All UI elements are displayed and responsible | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-83 | Cart | AS-78 | Change product quantity below to 0 and to 150 | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-83 | Cart | AS-76 | View product in cart | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-74 | Product page supports different screen resolutions | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-73 | Product information is displayed correctly | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-71 | Product page displays all required UI elements | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-72 | Product images are displayed correctly | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-75 | Add to cart button is usable on different screen sizes | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-69 | View product images | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-70 | Add product to the cart | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-67 | Open product's page | PASSED | AS-87 | PASSED |
+| AS-66 | Product | AS-65 | Product | AS-68 | View product information | PASSED | AS-87 | PASSED |
+|  |  |  |  |  |  |  |  |  |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-64 | Search by category | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-61 | Search functionality on different screen resolutions | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-63 | Search by image | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-62 | Search for several products at the same time | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-60 | Search button changes appearance on hover | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-57 | Search with a non-existing phrase | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-55 | Search with whitespace only | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-59 | Search Input supports clearing entered text | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-56 | Search with special characters | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-58 | Search Input is displayed correctly | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-53 | Search results correspond to the entered phrase | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-54 | Search with an empty input | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-52 | Search with a multi-word phrase | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-50 | Search using the Search button | PASSED | AS-86 | PASSED |
+| AS-2 | Search | AS-49 | Search Input, Filters | AS-51 | Search using the Enter key | PASSED | AS-86 | PASSED |
+|  |  |  |  |  |  |  |  |  |
+| AS-1 | Authentication | AS-47 | Log out | AS-48 | Logout from the account | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-42 | The input field border turns red when the field is empty. | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-44 | "Password visibility icon" changes its state | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-46 | Login form is responsive to different screen resolutions | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-43 | Show/Hide password using the visibility icon | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-45 | Clickable UI elements change color on hover | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-38 | Login with Google | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-39 | Login using facebook account | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-37 | Login with a pass key | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-41 | Verify login form UI elements and layout | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-40 | Login using phone number | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-36 | Retrieve password | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-34 | Login with invalid credentials | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-33 | Login with valid Email & password | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-35 | Login with empty email or password | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-32 | Login | AS-48 | Logout from the account | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-18 | Registration with password without lower case | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-20 | Registration with password less then 8 digits | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-21 | Registration without password | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-19 | Registration with password without upper case | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-22 | Registration without accepting Terms and Conditions | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-15 | Enter valid registration data with an unsupported/invalid email domain. | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-17 | Registration with password without digits | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-16 | Enter valid data with valid password | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-8 | Enter into registration page | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-13 | Enter valid registration data except for the email local part. | PASSED | AS-85 | PASSED |
+| AS-1 | Authentication | AS-14 | Registration | AS-7 | load main page | PASSED | AS-85 | PASSED |
+
+## Portfolio Note
+
+The current export contains **56 unique test cases linked in the traceability report out of 65 test cases** in the Test Cases export.
+
+The following test cases are not present in this traceability export:
+
+`AS-23, AS-24, AS-25, AS-26, AS-27, AS-28, AS-29, AS-30, AS-31`
+
+---
+
+**Source:** Jira / Xray CSV export
