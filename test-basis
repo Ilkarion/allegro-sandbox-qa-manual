@@ -73,9 +73,6 @@ The user should be able to:
 The user should be able to:
 - open a product page
 - view product information
-- view price
-- view available product options
-- select available options
 - add the product to the cart
 
 ---
@@ -83,7 +80,6 @@ The user should be able to:
 ## 5. Cart
 
 The user should be able to:
-- add a product to the cart
 - view products in the cart
 - change product quantity
 - remove a product
