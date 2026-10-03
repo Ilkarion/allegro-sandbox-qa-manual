@@ -1,6 +1,6 @@
 # Allegro Sandbox Manual QA Project
 
-It contains test planning, scenario coverage, execution tracking, API testing, and reporting.
+It contains test planning, scenario coverage, execution tracking, API testing, Performance testing and reporting.
 
 ## 📁 Project Structure
 
@@ -18,5 +18,7 @@ allegro-sandbox/
 │   ├── Test Sets Report
 │   └── Traceability_Report + Execution Report
 ├── 04_API_Testing
-    └── Postman
+│   └── Postman
+├── 05_Performance_Testing
+    └── JMeter
 ```-
