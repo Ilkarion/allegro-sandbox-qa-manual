@@ -1,32 +1,28 @@
-# Requirement Traceability
+# Traceability
 
 > Requirement → Story → Test Case → Test Execution → Test Run relationships exported from Jira/Xray.
 
-**Traceability records:** 60  
-**Unique test cases in traceability:** 56  
-**Test executions represented:** 3  
-**Passed test runs:** 57
 
 ## Traceability Matrix
 
-| Epic Key | Epic name | Story Key | Story name | Test Key | Test Summary | Test Status | Test Execution Key | TestRun Status |
+| Epic Key    | Epic name | Story Key | Story name | Test Key | Test Summary | Test Status | Test Execution Key | TestRun Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
-| AS-66 | Product | AS-83 | Cart | AS-77 | Change product quantity | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-83 | Cart | AS-79 | Check price after changing product quantity | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-83 | Cart | AS-80 | Remove product from the cart | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-83 | Cart | AS-82 | All UI elements are displayed and responsible | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-83 | Cart | AS-78 | Change product quantity below to 0 and to 150 | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-83 | Cart | AS-76 | View product in cart | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-74 | Product page supports different screen resolutions | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-73 | Product information is displayed correctly | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-71 | Product page displays all required UI elements | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-72 | Product images are displayed correctly | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-75 | Add to cart button is usable on different screen sizes | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-69 | View product images | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-70 | Add product to the cart | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-67 | Open product's page | PASSED | AS-87 | PASSED |
-| AS-66 | Product | AS-65 | Product | AS-68 | View product information | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-83 | Cart | AS-77 | Change product quantity | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-83 | Cart | AS-79 | Check price after changing product quantity | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-83 | Cart | AS-80 | Remove product from the cart | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-83 | Cart | AS-82 | All UI elements are displayed and responsible | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-83 | Cart | AS-78 | Change product quantity below to 0 and to 150 | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-83 | Cart | AS-76 | View product in cart | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-74 | Product page supports different screen resolutions | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-73 | Product information is displayed correctly | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-71 | Product page displays all required UI elements | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-72 | Product images are displayed correctly | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-75 | Add to cart button is usable on different screen sizes | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-69 | View product images | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-70 | Add product to the cart | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-67 | Open product's page | PASSED | AS-87 | PASSED |
+| AS-66  | Product | AS-65 | Product | AS-68 | View product information | PASSED | AS-87 | PASSED |
 |  |  |  |  |  |  |  |  |  |
 | AS-2 | Search | AS-49 | Search Input, Filters | AS-64 | Search by category | PASSED | AS-86 | PASSED |
 | AS-2 | Search | AS-49 | Search Input, Filters | AS-61 | Search functionality on different screen resolutions | PASSED | AS-86 | PASSED |
