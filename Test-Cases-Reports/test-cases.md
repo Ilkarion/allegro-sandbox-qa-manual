@@ -8,8 +8,8 @@
 
 ## Test Cases
 
-| Key | Summary | Test Type | Test Status | Test Run Status |
-| --- | --- | --- | --- | --- |
+| Key | Summary | Test Type | Test Status |
+| --- | --- | --- | --- |
 | AS-82 | All UI elements are displayed and responsible | Manual | PASSED |
 | AS-80 | Remove product from the cart | Manual | PASSED |
 | AS-79 | Check price after changing product quantity | Manual | PASSED |
