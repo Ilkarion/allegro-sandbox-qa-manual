@@ -1,6 +1,6 @@
 # Allegro Sandbox QA Project
 
-A structured QA documentation repository for testing the Allegro sandbox environment. It contains test planning, requirements analysis, scenario coverage, execution tracking, bug documentation, API testing, and reporting.
+It contains test planning, scenario coverage, execution tracking, API testing, and reporting.
 
 ## 📁 Project Structure
 
