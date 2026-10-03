@@ -1,4 +1,4 @@
-# Allegro Sandbox QA Project
+# Allegro Sandbox Manual QA Project
 
 It contains test planning, scenario coverage, execution tracking, API testing, and reporting.
 
