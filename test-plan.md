@@ -34,6 +34,14 @@
   - Quantity
   - Price calculation
 
+API Testing
+  -OAuth 2.0 authorization
+  -Access token generation
+  -Authorization error handling
+  -Authenticated user endpoint (/me)
+  -Search endpoints
+  -Cart endpoints
+
 ## Out of scope
 - Payment
 - Checkout
