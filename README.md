@@ -13,15 +13,12 @@ allegro-sandbox/
 │   ├── Product
 │   ├── Cart
 │   └── Checkout
-├── 03_Test_Scenarios
-├── 04_Test_Cases
-├── 05_Exploratory_Testing
-├── 06_Bug_Reports
-├── 07_API_Testing
-│   └── Postman
-├── 08_Responsive_Testing
-├── 09_Test_Execution
-└── 10_Test_Report
+├── 03_Test_Cases (Jira+XRay)
+│   ├── Test Cases Report
+│   ├── Test Sets Report
+│   └── Traceability_Report + Execution Report
+├── 04_API_Testing
+    └── Postman
 ```
 
 ## Contents Overview
