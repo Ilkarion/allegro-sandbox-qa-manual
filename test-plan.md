@@ -34,13 +34,6 @@
   - Quantity
   - Price calculation
 
-API Testing
-  -OAuth 2.0 authorization
-  -Access token generation
-  -Authorization error handling
-  -Authenticated user endpoint (/me)
-  -Search endpoints
-  -Cart endpoints
 
 ## Out of scope
 - Payment
@@ -65,8 +58,6 @@ API Testing
 - Chrome DevTools, Edge DevTools
 - Jira
 - XRay
-- Postman
-- JMeter
 
 ---
 
@@ -77,7 +68,6 @@ API Testing
 - Exploratory testing
 - UI testing
 - Responsive testing
-- API testing
 
 ---
 
@@ -109,7 +99,6 @@ API Testing
 - Sandbox behavior may differ from production.
 - Third-party services may be unavailable.
 - Some functionality may be restricted in the test environment.
-- API availability may change during testing.
 
 ---
 
