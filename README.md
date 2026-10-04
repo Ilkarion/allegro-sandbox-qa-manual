@@ -1,6 +1,50 @@
-# Allegro Sandbox Manual QA Project
+# Allegro Sandbox — Manual QA Portfolio Project
 
-It contains test planning, scenario coverage, execution tracking, API testing, Performance testing and reporting.
+A practical Manual QA project demonstrating the complete software testing
+workflow on the Allegro Sandbox e-commerce application.
+
+## Project Focus
+
+- Manual functional testing
+- Positive and negative testing
+- Boundary Value Analysis
+- Exploratory testing
+- UI and validation testing
+- Responsive testing
+- Test case design
+- Defect reporting
+- Test management with Jira + Xray
+- Requirements traceability
+- Test execution and reporting
+
+## Tools
+
+- Jira
+- Xray
+- GitHub
+- Chrome DevTools
+
+## Tested Areas
+
+- Registration
+- Login
+- Logout
+- Search
+- Product
+- Cart
+- Checkout
+
+## QA Artifacts
+
+- Test Plan
+- Test Basis
+- Test Scenarios
+- Test Cases
+- Test Sets
+- Test Executions
+- Traceability Matrix
+- Bug Reports
+- Test Report
 
 ## 📁 Project Structure
 
