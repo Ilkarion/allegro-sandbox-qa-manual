@@ -17,4 +17,4 @@ allegro-sandbox/
 │   ├── Test Cases Report
 │   ├── Test Sets Report
     └── Traceability_Report + Execution Report
-```-
+```
