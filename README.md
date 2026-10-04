@@ -16,9 +16,5 @@ allegro-sandbox/
 ├── 03_Test_Cases (Jira+XRay)
 │   ├── Test Cases Report
 │   ├── Test Sets Report
-│   └── Traceability_Report + Execution Report
-├── 04_API_Testing
-│   └── Postman
-├── 05_Performance_Testing
-    └── JMeter
+    └── Traceability_Report + Execution Report
 ```-
