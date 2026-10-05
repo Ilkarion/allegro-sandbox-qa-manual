@@ -22,7 +22,6 @@
 - Search
   - Search input
   - Categories
-  - Filters
 
 - Product
   - Product details
