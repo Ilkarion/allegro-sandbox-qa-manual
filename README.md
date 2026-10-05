@@ -32,7 +32,6 @@ allegro-sandbox/
 │   ├── Search
 │   ├── Product
 │   ├── Cart
-│   └── Checkout
 ├── 03_Test_Cases (Jira+XRay)
 │   ├── Test Cases Report
 │   ├── Test Sets Report
