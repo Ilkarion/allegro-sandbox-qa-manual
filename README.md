@@ -8,7 +8,7 @@ Registration, Login, Logout, Search, Product, Cart
 
 Testing types:
 Functional, UI, Positive/Negative, Boundary Value,
-Responsive, Exploratory
+Responsive
 
 Tools:
 Jira, Xray, GitHub, Chrome DevTools
