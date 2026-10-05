@@ -91,7 +91,7 @@
   expected behavior when formal requirements are unavailable.
 - Business rules that cannot be verified are documented as assumptions.
 - Test data available in the sandbox environment may differ from production.
-- inheraction with app by regular account(not business account)
+- Testing is performed using a regular user account.
 - user reached the age of 18
 
 ## Risks
@@ -106,14 +106,11 @@
 - Test Plan
 - Test Basis
 - Test Scenarios
-- Test Cases
-- Exploratory Testing Sessions
 - Bug Reports
-- Postman API Collection
-- Responsive Testing Results
+- Test Cases Report
+- Test Sets Report
 - Test Execution Report
-- Final Test Summary
-
+- Traceability Report
 ---
 
 ## Defect Management
