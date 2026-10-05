@@ -1,19 +1,18 @@
-Manual QA Portfolio Project
+# Manual QA Portfolio Project
 
-Application:
-Allegro Sandbox
+### Application: Allegro Sandbox
 
-Testing scope:
-Registration, Login, Logout, Search, Product, Cart
+### Testing scope:
+- Registration, Login, Logout, Search, Product, Cart
 
-Testing types:
-Functional, UI, Positive/Negative, Boundary Value,
-Responsive
+### Testing types:
+- Functional, UI, Positive/Negative,
+- Boundary Value, Responsive
 
-Tools:
-Jira, Xray, GitHub, Chrome DevTools
+### Tools:
+- Jira, Xray, GitHub, Chrome DevTools
 
-Deliverables:
+### Deliverables:
 - Test Plan
 - Test Basis
 - Test Cases
