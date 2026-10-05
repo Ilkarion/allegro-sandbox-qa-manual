@@ -31,7 +31,7 @@ allegro-sandbox/
 │   ├── Search
 │   ├── Product
 │   ├── Cart
-├── 03_Test_Cases (Jira+XRay)
+├── 03_Test_Cases (Jira+XRay) & pdf/csv exports
 │   ├── Test Cases Report
 │   ├── Test Sets Report
     └── Traceability_Report + Execution Report
