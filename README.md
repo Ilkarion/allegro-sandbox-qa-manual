@@ -14,14 +14,14 @@ Tools:
 Jira, Xray, GitHub, Chrome DevTools
 
 Deliverables:
-Test Plan
-Test Basis
-Test Cases
-Test Sets
-Test Executions
-Traceability Matrix
-Test Report
-Bug Reports
+- Test Plan
+- Test Basis
+- Test Cases
+- Test Sets
+- Test Executions
+- Traceability Matrix
+- Test Report
+- Bug Reports
 ## 📁 Project Structure
 
 ```text
