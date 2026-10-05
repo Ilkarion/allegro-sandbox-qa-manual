@@ -57,15 +57,6 @@ The user should be able to:
 - navigate between categories
 - view products belonging to the selected category
 
-### Filters
-
-The user should be able to:
-- open available filters
-- select filter values
-- apply filters
-- clear filters
-- view products matching selected filters
-
 ---
 
 ## 4. Product
