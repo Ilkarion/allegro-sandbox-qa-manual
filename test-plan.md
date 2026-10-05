@@ -64,7 +64,6 @@
 - Functional testing
 - Positive and negative testing
 - Boundary value analysis
-- Exploratory testing
 - UI testing
 - Responsive testing
 
