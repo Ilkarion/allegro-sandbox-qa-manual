@@ -29,7 +29,3 @@ Blocked: 0
 
 ## Defects
 0 defects discovered
-
-## Conclusion
-
-...
