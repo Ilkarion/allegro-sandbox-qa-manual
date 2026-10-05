@@ -68,14 +68,6 @@
 | AS-1 | Authentication | AS-14 | Registration | AS-13 | Enter valid registration data except for the email local part. | PASSED | AS-85 | PASSED |
 | AS-1 | Authentication | AS-14 | Registration | AS-7 | load main page | PASSED | AS-85 | PASSED |
 
-## Portfolio Note
-
-The current export contains **56 unique test cases linked in the traceability report out of 65 test cases** in the Test Cases export.
-
-The following test cases are not present in this traceability export:
-
-`AS-23, AS-24, AS-25, AS-26, AS-27, AS-28, AS-29, AS-30, AS-31`
-
 ---
 
 **Source:** Jira / Xray CSV export
