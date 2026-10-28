@@ -2,12 +2,13 @@
 
 ### Application: Allegro Sandbox
 
-<img src="imgs/board.png" width="300" />
-<img src="imgs/zephyr_using.png" width="300" />
-<img src="imgs/treacability-report.png" width="300" />
-<img src="imgs/Test-Set.png" width="300" />
-<img src="imgs/test-sets-report.png" width="300" />
-
+<div style="display:flex; flex-direction: row;">
+  <img src="imgs/board.png" width="500" />
+  <img src="imgs/zephyr_using.png" width="500" />
+  <img src="imgs/treacability-report.png" width="500" />
+  <img src="imgs/Test-Set.png" width="500" />
+  <img src="imgs/test-sets-report.png" width="500" />
+</div>
 
 ### Testing scope:
 - Registration, Login, Logout, Search, Product, Cart
