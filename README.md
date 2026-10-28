@@ -2,9 +2,13 @@
 
 ### Application: Allegro Sandbox
 [Test Plan](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/test-plan.md)
+
 [Test Basis](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/test-basis.md)
+
 [Test Report](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/test-report.md)
+
 [Exploratory Testing Report](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/Exploratory_Testing.md)
+
 
 <div align="center">
   <img src="imgs/board.png" width="48%" />
