@@ -7,7 +7,7 @@
 
 ### Testing types:
 - Functional, UI, Positive/Negative,
-- Boundary Value, Responsive
+- Boundary Value, Responsive, Exploratory Testing
 
 ### Tools:
 - Jira, Xray, GitHub, Chrome DevTools
@@ -21,6 +21,7 @@
 - Traceability Matrix
 - Test Report
 - Bug Reports
+- Exploratory testing
 ## 📁 Project Structure
 
 ```text
@@ -34,5 +35,6 @@ allegro-sandbox/
 ├── 03_Test_Cases (Jira+XRay) & pdf/csv exports
 │   ├── Test Cases Report
 │   ├── Test Sets Report
-    └── Traceability_Report + Execution Report
+│   └── Traceability_Report + Execution Report
+├─── Exploratory Testing Report
 ```
