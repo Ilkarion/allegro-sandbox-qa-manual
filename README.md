@@ -3,7 +3,7 @@
 ### Application: Allegro Sandbox
 [Test Plan](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/test-plan.md) - [Test Basis](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/test-basis.md) - [Test Report](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/test-report.md) - [Exploratory Testing Report](https://github.com/Ilkarion/allegro-sandbox-qa-manual/blob/main/Exploratory_Testing.md)
 
-> Allegro Sandbox is a manual QA portfolio project created to practice full-cycle software testing on an e-commerce platform. It provided practical experience in test planning, designing 65 test cases using core test design techniques, managing test artifacts in Jira and Xray, building a traceability matrix, and writing professional bug reports.
+> Allegro Sandbox is a manual QA portfolio project created to practice full-cycle software testing on an e-commerce platform. It provided practical experience in test planning, designing 65 test cases using core test design techniques, managing test artifacts in Jira and Xray, building a traceability matrix, and writing professional reports.
 
 <div align="center">
   <img src="imgs/board.png" width="48%" />
